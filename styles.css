@@ -1,0 +1,30 @@
+.container {
+    border: 1px black solid;
+}
+
+
+
+/*<!--Hoja 1 Principio-->
+/* Barra de navegacion*/
+
+.logArgP {
+    max-height: 40px;
+}
+
+.hero {
+    max-height:90vh;
+}
+
+.img_perfil{
+    max-height: 40px;
+    border-radius: 50%;
+}
+
+
+/*<!--Hoja 1 Fin-->*/
+
+
+.img_ExpLab{
+
+    max-width:300px;
+}
